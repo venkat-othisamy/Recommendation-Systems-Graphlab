@@ -1,4 +1,4 @@
-# Recommendation-Systems-Graphlab-tetsting
+# Recommendation Systems using Graphlab
 This project is mainly done to have a deeper understanding of Recommender systems and to test the awesome cython package 'Graphlab', known for multi-thread parallel processing.
 
 The Movielens dataset is downloaded from Kaggle.
