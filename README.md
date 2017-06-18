@@ -4,3 +4,7 @@ This project is mainly done to have a deeper understanding of Recommender system
 This code was run during initial months of learning. Unfortunately, Graphlab is not supported in Python 3\* and hence not improved/optimized recently.
 
 The Movielens dataset is downloaded from Kaggle.
+
+Two types of models were run and compared.
+<li>Item similarity model</li>
+<li>Popularity model</li>
